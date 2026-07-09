@@ -1,7 +1,9 @@
 def shutdown ():
+    print("This is a shut down function ")
     return
     
-print("This is a shut down function ")
+    
+
 
 print ((input("Do you really want to shut down? Y/N")).upper())
 if "Y":
