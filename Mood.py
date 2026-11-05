@@ -17,7 +17,7 @@ elif mood > 6:
     print("Have fun")
 
 
-else:
+elif mood >= 10:
     
     print("You are the universe god")
     print("Do whatever you want")
